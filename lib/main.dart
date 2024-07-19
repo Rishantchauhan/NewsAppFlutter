@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pandanews/splash_screen.dart';
+import 'package:MinuteNews/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
